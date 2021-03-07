@@ -75,3 +75,8 @@ from gensim.utils import simple_preprocess
 from gensim.models import CoherenceModel, LdaModel, LsiModel, HdpModel
 from pprint import pprint
 from gensim.models import CoherenceModel
+
+
+
+#Inoltre, è stato utilizzato il seguente dataset
+#https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
